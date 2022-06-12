@@ -6,3 +6,5 @@ OLED_DRIVER     = SSD1306
 LTO_ENABLE      = yes
 SPLIT_KEYBOARD  = yes
 WPM_ENABLE      = yes
+TAP_DANCE_ENABLE = yes
+WPM_ENABLE = yes
